@@ -1,10 +1,7 @@
 const valorDoProduto = 1000;
-
-//quantidade de parcelas
 const quantidadeDoParcelamento = 10;
-
-//valor pago
 const valorPago = 300;
+
 
 const valorParcela = valorDoProduto / quantidadeDoParcelamento;
 
