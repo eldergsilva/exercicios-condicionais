@@ -1,5 +1,5 @@
 const rendaMensalEmCentavos = 190000;
-const mesesDecorridos = 61;
+const mesesDecorridos = 12;
 const totalJaPagoPeloAluno = 1000000;
 
 let valorDaParcela;
